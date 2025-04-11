@@ -1,5 +1,5 @@
 import RegisterForm from "../components/RegisterForm";
-import background from "../assets/background.png";
+import background from "../assets/bg1.jpg";
 
 const RegisterPage = () => {
   return (

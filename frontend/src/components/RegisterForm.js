@@ -85,7 +85,7 @@ const RegisterForm = () => {
   };
 
   return (
-    <div className="max-w-4xl w-[35%] bg-white/85 p-8 shadow-lg rounded-lg">
+    <div className="max-w-4xl w-[60%] bg-white/85 p-8 shadow-lg rounded-lg shadow-black-400/50">
       <h2 className="text-2xl font-extrabold text-center text-gray-900 mb-6">
         Profile Registration
       </h2>
